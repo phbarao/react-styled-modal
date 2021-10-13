@@ -6,10 +6,10 @@
 
 ## Running
 
-Instal dependencies:
+Install dependencies:
 
 ### `yarn`
 
-You can run:
+Run:
 
 ### `yarn start`
